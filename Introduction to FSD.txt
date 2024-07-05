@@ -1,0 +1,37 @@
+Full Stack Web Development
+
+1. FrontEnd 	-	HTML,CSS,BootStrap,JavaScript,React,Angular
+2. BackEnd		- 	C++,Java,Python,.Net,Servlets,
+3. Storage 		-	Databases[MySQL,Oracle,MongoDB],
+					Cloud[AWS,MS AZURE,Google Cloud]
+					
+					
+HTML : Hyper Text Markup Language
+- No Softwares required
+- save --> FileName.html
+- Design a Web Pages :
+		- Tags 
+				Open --> <TagName>
+				close --> </TagName>
+- Document Structure:
+	<html>
+		<head>
+				<title> Title Name </Title>
+		</head>
+		<body>
+		
+		</body>
+	
+	</html>
+
+Application Form 
+							Input type
+Name : text					text
+DOB : date					date
+Gender : Male,Female,Others radio
+Qualification : SSC,INTER,DIPLOMA,GRADUATION,POST GRADUATION[dropdown list]
+Langauages Known : 	Telugu,Hindi,English, [checkbox]
+Photo : UPLOAD 				[file]
+EmailID : EMAIL 			email
+Phone Number : NUMBER		Number
+Address : PARAGRAPH			textarea
